@@ -4,18 +4,18 @@
 <item id="wrap_hyphen"><t>-</t></item>
 <item id="created_by"><t>автор Lucas Pope</t></item>
 <item id="papers_please"><t>Ваши документы!</t></item>
-<item id="protocol_violated"><t>Нарушение правил</t></item>
+<item id="protocol_violated"><t>Нарушение СРП</t></item>
 <item id="unauth_confiscation"><t>Паспорт изъят незаконно</t></item>
 <item id="missing_reason"><t>Отказ без указания причин</t></item>
 <item id="citation_warning"><t>ЗАМЕЧАНИЕ БЕЗ ШТРАФА</t></item>
 <item id="citation_lastwarning"><t>ПОСЛЕДНЕЕ ЗАМЕЧАНИЕ БЕЗ ШТРАФА</t></item>
 <item id="citation_penalty"><t>НАЛОЖЕН ШТРАФ - $0 КРЕДИТОВ</t></item>
 <item id="border_next"><t>СЛЕДУЮЩИЙ!</t></item>
-<item id="border_bomber"><t>ЗА КОЛЕЧИЮ!</t></item>
-<item id="border_comeback"><t>ЖДЕМ ВАС ЗАВТРА В 6 ЧАСОВ УТРА</t></item>
+<item id="border_bomber"><t>ЗА СНК!</t></item>
+<item id="border_comeback"><t>ЖДЕМ ВАС ЗАВТРА НА ГРАНИЦЕ В 6 ЧАСОВ УТРА</t></item>
 <item id="border_announce0"><t>ВЪЕЗД НЕ ГАРАНТИРОВАН</t></item>
 <item id="border_announce1"><t>ГОТОВЬТЕ ДОКУМЕНТЫ ЗАРАНЕЕ</t></item>
-<item id="border_announce2"><t>ДОБРО ПОЖАЛОВАТЬ В АРСТОТЦКУ</t></item>
+<item id="border_announce2"><t>ДОБРО ПОЖАЛОВАТЬ В ФРОНТИР</t></item>
 <item id="border_guardout"><t>ПРОЙДЕМТЕ!</t></item>
 <item id="border_elisa"><t>ЭЛИЗА!</t></item>
 <item id="family_son_budget"><t>СЫН</t></item>
@@ -45,17 +45,17 @@
 <item id="family_died_4"><t>Ваши $0, $1, $2 и $3 умерли</t></item>
 <item id="family_died_5"><t>Ваши $0, $1, $2, $3 и $4 умерли</t></item>
 <item id="family_escape_with_0"><t>Вы все бросили.</t></item>
-<item id="family_escape_with_1"><t>Вы и $0 бежали в Орбистан.</t></item>
-<item id="family_escape_with_2"><t>Вы, $0 и $1 бежали в Орбистан.</t></item>
-<item id="family_escape_with_3"><t>Вы, $0, $1 и $2 бежали в Орбистан.</t></item>
-<item id="family_escape_with_4"><t>Вы, $0, $1, $2 и $3 бежали в Орбистан.</t></item>
-<item id="family_escape_with_5"><t>Вы, $0, $1, $2, $3 и $4 бежали в Орбистан.</t></item>
+<item id="family_escape_with_1"><t>Вы и $0 бежали в Империю.</t></item>
+<item id="family_escape_with_2"><t>Вы, $0 и $1 бежали в Империю.</t></item>
+<item id="family_escape_with_3"><t>Вы, $0, $1 и $2 бежали в Империю.</t></item>
+<item id="family_escape_with_4"><t>Вы, $0, $1, $2 и $3 бежали в Империю.</t></item>
+<item id="family_escape_with_5"><t>Вы, $0, $1, $2, $3 и $4 бежали в Империю.</t></item>
 <item id="family_escape_without_1"><t>$0 готовится к возвращению в Нирск.</t></item>
 <item id="family_escape_without_2"><t>$0 и $1 готовятся к возвращению в Нирск.</t></item>
 <item id="family_escape_without_3"><t>$0, $1 и $2 готовятся к возвращению в Нирск.</t></item>
 <item id="family_escape_without_4"><t>$0, $1, $2 и $3 готовятся к возвращению в Нирск.</t></item>
 <item id="family_escape_without_5"><t>$0, $1, $2, $3 и $4 готовятся к возвращению в Нирск.</t></item>
-<item id="family_flee_final_0"><t>Орбистан превыше всего</t></item>
+<item id="family_flee_final_0"><t>Священная Империя превыше всего</t></item>
 <item id="family_flee_final_1"><t>Вы не знаете, в безопасности ли $0.</t></item>
 <item id="family_flee_final_2"><t>Вы не знаете, в безопасности ли $0 и $1.</t></item>
 <item id="family_flee_final_3"><t>Вы не знаете, в безопасности ли $0, $1 и $2.</t></item>
@@ -218,7 +218,7 @@ $time
 <item id="day_29"><t>29</t></item>
 <item id="day_30"><t>30</t></item>
 <item id="day_31"><t>31</t></item>
-<item id="bulletin_default"><t>Арстотцка
+<item id="bulletin_default"><t>NanoTrasen
 Министерство въезда
 Официальный бюллетень
 
@@ -226,8 +226,8 @@ $time
 
 $content
 
-Слава Арстотцке!</t></item>
-<item id="bulletin_notice"><t>Арстотцка
+Слава НаноТрейзен!</t></item>
+<item id="bulletin_notice"><t>NanoTrasen
 Министерство въезда
 Официальный бюллетень
 
@@ -235,8 +235,8 @@ $content
 
 $content
 
-Слава Арстотцке!</t></item>
-<item id="bulletin_endless"><t>Арстотцка
+Слава НаноТрейзен!</t></item>
+<item id="bulletin_endless"><t>NanoTrasen
 Министерство въезда
 Официальный бюллетень
 
@@ -244,5 +244,5 @@ $style
 
 $course
 
-Слава Арстотцке!</t></item>
+Слава НаноТрейзен!</t></item>
 </data>
